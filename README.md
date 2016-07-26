@@ -1,4 +1,4 @@
-__PLEASE MAKE SURE TO INDEX ALL TOPICS__
+__PLEASE MAKE SURE TO DOCUMENT ALL TOPICS AND UPDATE README__
 
 ##Table of Contents
 =======
@@ -13,3 +13,4 @@ __PLEASE MAKE SURE TO INDEX ALL TOPICS__
 * Design Principles/Patterns
 * OOP Languages
 * Presentation Slides
+* Unix
