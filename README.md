@@ -1,3 +1,5 @@
+__PLEASE MAKE SURE TO INDEX ALL TOPICS__
+
 ##Table of Contents
 =======
 ###Structure
