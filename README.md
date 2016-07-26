@@ -2,11 +2,11 @@
 =======
 ###Structure
 
-###Question Bank
+####Question Bank
 * Question Bank Per Company
 * Company Information
 
-###Technical
+####Technical
 * Sorting Algorthms
 * Design Principles/Patterns
 * OOP Languages
