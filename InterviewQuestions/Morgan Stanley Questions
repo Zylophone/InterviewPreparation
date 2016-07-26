@@ -1,0 +1,240 @@
+HK Interview questions
+Soft skill questions:
+1.       Tell me about yourself.
+2.       Why do you want this role?
+3.       Tell me about your internships and/or projects from university?
+4.       Did you ever have to develop a project for client?
+5.       Have you ever experienced conflict in a work scenario or on a university project? How did you resolve it?
+6.       What do you know about this role?
+ 
+Technical Questions:
+1.       How to structure a library. What data type would you use. How to get the book efficiently
+2.       Object oriented 4 pillars. Explain and example.
+3.       What programming languages do you know?
+a.       Refresh on your basic fundamentals.
+4.       How do you know the software is doing what it supposed to do. How to test it?
+5.       Given a formula and a program. Get a crappy result. How to determine the code wrong or the formula wrong.
+6.       Finance is a highly regulated industry. Why do you prefer working in financial industry instead of working in the IT industry like google, facebook.
+7.       When you have a super large dataset in sql. What problem you might have?
+8.       Compare Objected oriented vs procedure vs function programming language.
+9.       Describe a project you have done in excel/vba
+10.   Do you prefer front office or back office
+11.   What can you offer.
+12.   What financial products do you know
+ 
+More Technical questions:
+1.       What programming languages do you know? Which is your preferred? Why?
+2.       What do you know about Spring?
+3.       Can you explain me how spring MVC works?
+4.       What else did you use Spring for?
+5.       Have you used TDD? This will definitely be asked.
+6.       Why is it important to watch it fail?
+7.       What other technology did you use for your webapplication?
+8.       Did you insert Java code in your JSP files? Why or why not?
+9.       How did you implement Agile in your project?
+10.   What is the synchronized keyword used for?
+11.   What other problems may arise when using synchronization?
+12.   How do you prevent these from happening?
+13.   Have you used Generics?
+14.   How is generics useful? (tricky question, he doesn’t really like generics)
+ 
+Scenario Questions:
+1.       If you have a very large dataset (much larger than the available RAM) how would you sort it?
+2.       If you have a Linked List and your system cannot store any other temporary data, how would you detect if there is a loop in this list?
+3.       What would be the complexity of this algorithm?
+4.       I ask you to develop an application for traders to monitor the risk of their portfolio. What steps would you take to create this application?
+ 
+My interview questions
+jp
+Do you know about cpython?
+multi-threading in python
+Why is java faster than c/c++ under certain occasion?
+What is Convolutional Neural Network?
+What is sed?
+table pivoting using pandas?
+what is functional programming language?
+
+yan
+what does the three numbers behind load average means within the top command? 
+what is FDM? 
+how to kill a process?
+what to do if it appears again?
+how to know the last reboot time of the system?
+write a script to replace A to B for all the txt file in the directory?
+He wrote down a number between 1-1million ask me to use three questions to get that number
+
+A list of all country with respective population 
+How will you put it inside ten buckets equally?(A country and all of its population has to be put it into a bucket)
+How will you put it in with alphabetically order?
+
+using one line of unix command to calculate how many 3 inside 1-1000
+
+polo
+Why join FDM?
+what do you know about the role?
+What is a Binary Search Tree?
+Explain one sorting algorithm and its complexity.
+Why array is faster than list in sorting?
+Why array is faster than tree in searching?
+Talk about your courses
+
+
+What is hashmap? How does it work? Is it thread safe? How do you make it thread safe?
+What is an interface?
+Climbing a latter with size N. You can go up one or two steps. Write an algorithm to calculate the number of combination you can climb up the latter.
+For example, n=4 five combination 
+1 1 1 1
+1 1 2
+1 2 1
+1 1 2
+2 2 
+Given a head of the linked list and size unknown. How do you find the middle element? 
+
+
+Talk about your recent personal project
+Exit statement in Unix
+Unix Top command
+How to branch in Git?
+What happened if Java process used up all the memory?
+Explain Virtual memory
+
+David
+talking about his experience working in the game industry for 11 years and staying in various countries. 
+what is soft/weak reference?
+what happened when java program become slow?
+java memory model, how does java garbage collection works?
+what is thread?
+how to start a thread?
+what is dead lock and live lock?
+how to resolve dead lock?
+what is circular wait?
+what is synchronized? – multiple things accessing one object at the same time, but you only want one person to access it at a time, you use synchronization then
+what is atomic variable?
+adv/ disadv hashmap vs sorted array/tree?
+sorted array vs tree?
+write out the code to print a array of numbers randomly without duplicate.
+ 
+ Peter 
+ask me to introduce myself. 
+Given three ants on three different vertices of the triangle. What is the probability two ants collide. 
+what is soft/weak, phantom reference?
+what is volatile key word?
+what is synchronize?
+what is dead lock?
+talk about concurrent hash map and the cost of context switching
+how to resolve dead lock?
+Write out the code for the following problem, Given n staircases a child can climb the stair one step or two steps at a time. Calculate how many combinations do they have. 
+What is the complexity? 
+ask me to improve to O(n).
+ask me to improve to O(1).
+  
+Ansel
+introduce himself and the role
+ask me to introduce myself. 
+walk through my resume.
+why FDM?
+what is a thread?
+what is the difference between a thread and a process?
+what is dead lock?
+how to resolve dead lock?
+linked list vs array
+what are the 4 pillars of OOP? Explain each of them.
+what is SOLID? how to implement each of them
+Given an unknown size linked list how to detect cycle. 
+
+New York interview Questions
+1.	Tell me about yourself and any technical experiences that may be useful for this position
+2.	List 5 Unix commands and what each one does (who, jobs, tree, ls, cd)
+3.	How to read the last 10 lines from a file (tail filename)
+4.	Explain in pseudo code how to sort a file with list of name in random order
+5.	Showed me a line of query in SQL and asked me to explain what it does (join tables)
+6.	Is C++ compiler or interpreter
+7.	I told him that I know excel, so he asked me to explain vlookup
+8.	He gave me a scenario about architecture and asked me to draw a diagram to illustrate it
+9.	Was asked to walk them through my resume, talked about my college background for a few minutes.
+10.	You have numbers 1-100, one is taken out at random, what number was taken out?
+11.	(Answer: Sum the remaining numbers and then subtract that sum from the sum of all the numbers from 1 to 100) 
+12.	You have 100 license plates, one is taken out at random, how do you know which one was taken out?
+13.	(Answer: sort them in an order (alphabetically or numerically), and then find the missing one. KEY PART: YOU ORIGINALLY KNOW ALL 100 LICENSE PLATES, I somehow missed that so I didn't see how sorting them out would help me.)
+14.	Tech:
+15.	Find the first 4 digit Fibonacci number.
+16.	I used a simple while loop and was asked to walk them through my loop once I wrote it.
+17.	Reverse a string. (You're not allowed to use any built in reverse functions)
+18.	Again a simple for loop with CharAt(i) should do the trick
+19.	
+20.	Draw an ERD diagram modeling Amazon book sales
+21.	What is a primary key
+22.	Other:
+23.	Was asked if I had any questions.
+24.	I asked why they picked Python as the main language to rewrite their system in.
+25.	
+26.	Second interview: Harold, John 
+27.	Non tech:
+28.	Talked about myself, where I was from, if I still knew the language.
+29.	Talked a bit about my hobbies, was asked about my favorite tennis players. 
+30.	Talked about how I ended up starting training at FDM (my major was math).
+31.	Asked me how well I think I knew java on a scale of 1-5.
+32.	Tech:
+33.	What is COBOL?
+34.	Count the number of letters g in a string (Ex: "Google")
+35.	Sort an array of integers (Ex: [-1, 0, 2, -2, 10])
+36.	List the 4 pillars of OOP and explain them all to a non technical person
+37.	(inheritance, encapsulation, polymorphism, and abstraction - give examples of these)
+38.	Other:
+39.	Was asked if I had any questions, and we discussed the role itself for a while
+40.	I was told that they did not want java developers, they wanted someone who is willing to learn a wide variety of languages (Python, Scala, COBOL, IBM mainframe). Apparently they are trying to upgrade their system which was written mainly in COBOL and IBM mainframe, and over the next few years, gradually rewrite it in newer languages (Python, Scala, C#)
+41.	1) Write an algorithm that provides the nth fibonacci number? I gave the recursive solution. What performance considerations should be noted about your implementation? I noted potential stack overflow problems from too many recursive calls, and I offered a memoized enhancement. They said that wasn’t needed.
+42.	2) What is 28? I answered 256.
+43.	3) Initially there are one hundred consecutive numbers, 1 – 100. One number is removed. Determine which one using the quickest algorithm. All you have to work with is some unspecified collection of the remaining numbers (i.e. could be an array, linked list, etc. and they’re not stored in any particular order). The answer: let x be the sum of the remaining numbers, then 100 * 101 / 2 – x is the missing number. What is the algorithmic complexity of this approach? Answer: depends, if it’s always going to be using the range 1 – 100, then complexity is O(1). If the range might be 1 – N, where N might be arbitrarily high, then complexity is O(N). NB: if you give the above answer straight away, they will likely tweak the question to push you a little.
+44.	4) Show how you’d design a database for Amazon.com. In the database you have things such as books, customers, orders, etc. I provided an ERD with four tables: Books {book_id (PK), title, price }; Customers {customer_id (PK), name, address }; Orders {order_id (PK), customer_id (FK) }; Book_Orders {order_id (PK), book_id (PK) }. I made sure to indicate which relationships were many-to-one, and many-to-many, saying that the latter must be resolved via an associative entity, i.e. Book_Orders. I also indicated why the foreign keys were needed. 
+45.	5) What are your thoughts about test driven development? I elaborated on black box and white box testing, integration testing, regression tests, acceptance tests, what are the merits of white versus black box testing. I mentioned that we use JUnit at FDM and that I’m familiar with CUnit (for C) and PyUnit (for Python).
+46.	Most of the rest of my visit there involved hearing about how they do things and what their expectations are: They use Scrum and Kanban to manage their projects. They have several different departments on the floor we were at, including trade processing, and asset management. They emphasized that projects and technologies involved vary greatly, and that they have huge amounts of legacy code written using out-dated technologies (COBOL, IBM Mainframe, etc.), as well some new technologies (Python, Scala, C#, etc.), and that it is not an option to decide you don’t want to learn about this or that technology. They had a pair programming exercise for us to do, but due to an Eclipse installation issue, they put that off until a possible second round of interviews. They also asked me many questions about my resume, past jobs, about date discrepancies, which ones were full time or part time, and even touched on some of the personal parts. For example, I indicated that I’m a rated chess player and Harold asked me what my favorite opening is, and we talked about chess strategies and the game Go, for about five minutes.
+47.	Find the number of occurrences of each unique word in a sentence.
+48.	Draw the bubble sort algorithm, what is its time complexity.
+49.	Find the Column name in an excel sheet, by Number. Ie: column 28 is AA.
+50.	 Given a database, find any rows with 2 or more non Null columns, arithmetically.
+51.	Do Binary sort, in an Array, by hand.
+-	What was the last technical book you read? He will follow up with, “Tell me about that...”
+-	What is the Strategy Pattern?
+-	What is TDD?
+-	What is Mocking and how is it related to TDD?
+-	What is a Functional language? 
+-	What is a Dynamic language?
+52.	Write an algorithm to reverse a string
+53.	What is hashing, and how does a HashMap work? He specifically asked what would happen if you put two objects with the same hashcode into a HashMap.
+54.	
+55.	How would you compare two HashMaps?
+56.	
+57.	He asked a question about search algorithms, and how you would search for something. There wasn’t a specific situation outlined here. He mentioned Binary Search.
+Unix Question:
+58.	How to find files with in a directory that were modified within a given time and delete those files.
+59.	I said to use the find command with options and pipe those results with the ‘rm’ command.
+
+60.	What does the more and less command do?
+
+Java Question:
+
+61.	If I knew the updates from Java API 4 to Java API 6, because they were on Java 4
+62.	To explain AutoBoxing/ Unboxing and give examples which wrapper classes use them.
+63.	Walk him thru the steps of writing a simple java program.
+64.	Explain when the garbage collector is ran & how to increase the odds if it running.
+65.	
+
+What is an interface
+What is a super class
+What is a singleton class
+What is synchronization
+Describe polymorphism
+What does the static keyword mean
+What is final
+What is an abstract class
+What is an immutable object
+
+SQL
+What is the difference between delete vs truncate
+What is a Cartesian join
+What is the default of Order by 
+How do we remove duplicates in a sql query  
+If you have two tables, table A and table B, where each element on table A corresponds to an entity on table B but each element on table B may not correspond to table A, how do you display both tables so that table B list something(null) even if it doesn’t correspond to an element A
+(I believe what he was looking for was a demonstration of outer joins. So a left or right join depending on how you answer the question)
+
