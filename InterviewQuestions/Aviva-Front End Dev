@@ -1,0 +1,54 @@
+Aviva Front End Developer
+
+From the recent interviews a lot of the questions focused on projects that the consultants completed, why they are passionate about technology, what new technologies are you studying and why. 
+
+Key technologies to focus on are listed below; 
+
+API's: 	   Python, PHP, Perl, .NET, XML, SQL ,SOA, Node.js, Jboss Fuse, Apigee, 
+Front End: HTML5, CSS3, Bootstrap Angular, Knockout, ember, 
+
+Questions:
+
+
+In 20 seconds describe to us why you chose to be a developer.
+
+What do you see yourself doing? What's your ideal situation?
+
+Are you more of a frontend or backend developer? Which one do you prefer?
+
+What are the steps to establish a secure connection? Specifically private and public keys (very general. Know what it is and what it does at a high level)
+
+What is JSON and how do you use it?
+
+Projects. Describe to me your process, what you did?
+
+Poked around my projects a lot. Why I chose to use the language etc
+
+What challenges did you face during the projects? (They'll ask more specific questions)
+
+Did you use any type of subversion/git to maintain your code and explain to me how you used it.
+
+Have you contributed to an environment that was already using git or subversion?
+
+Python - what level of exposure I had. It was very general.
+
+Asked about how I ensured the code I developed worked? What tools did I use to test it?
+
+What is jQuery?
+
+What does the $() represent?
+
+Why is jQuery useful?
+
+
+Key notes:
+I assume they will ask questions about TDD and BDD but because I already talked about it, they may have just skipped asking me altogether.
+Nothing about CSS, HTML, PHP, XML, SQL.
+Didn't mention requesting code samples (I forgot to give it to them).
+Nothing about continuous integration, SDLC.
+No questions related to or about AVIVA.
+
+
+They told me these skills were very important in their company and that it would be necessary to learn these skills in order to be a front end developer.
+
+Angular.js v2.0, Spring MVC (model view controller), react, RESTful design, MEAN stack.
