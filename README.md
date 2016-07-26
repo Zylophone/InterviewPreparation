@@ -3,8 +3,8 @@
 ###Structure
 
 ###Question Bank
-*Per Company
-*Company Information
+* Question Bank Per Company
+* Company Information
 
 ###Technical
 * Sorting Algorthms
