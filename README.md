@@ -3,10 +3,11 @@
 ###Structure
 
 ###Question Bank
-####Per Company
+Per Company
+Company Information
 
 ###Technical
-####Sorting Algorthms
-####Design Principles/Patterns
-####OOP Languages
-####Presentation Slides
+Sorting Algorthms
+Design Principles/Patterns
+OOP Languages
+Presentation Slides
