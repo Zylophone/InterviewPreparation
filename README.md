@@ -1,3 +1,12 @@
 Interview Preparation
 =======
-Hi Guys, feel free to add more things in this repository! :smiley:
+#Structure
+
+#Question Bank
+##Per Company
+
+#Technical
+##Sorting Algorthms
+##Design Principles/Patterns
+##OOP Languages
+##Presentation Slides
