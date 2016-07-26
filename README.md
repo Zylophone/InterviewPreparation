@@ -1,12 +1,12 @@
-Table of Contents
+##Table of Contents
 =======
-##Structure
+###Structure
 
-##Question Bank
-###Per Company
+###Question Bank
+####Per Company
 
-##Technical
-###Sorting Algorthms
-###Design Principles/Patterns
-###OOP Languages
-###Presentation Slides
+###Technical
+####Sorting Algorthms
+####Design Principles/Patterns
+####OOP Languages
+####Presentation Slides
