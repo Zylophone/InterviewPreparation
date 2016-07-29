@@ -1,6 +1,4 @@
-<h3>Does Java support multiple inheritances?</h3>
-C++, Common lisp and few other languages supports multiple inheritances while java doesn't support it. 
-It is just to remove ambiguity, because multiple inheritances can cause ambiguity in few scenarios.
+<h1>Java</h1>
 
 <h3>What is static in Java?</h3>
 The static keyword in Java means that the variable or function is shared between all instances of that 
