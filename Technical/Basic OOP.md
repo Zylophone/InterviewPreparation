@@ -1,20 +1,22 @@
 <h4>4 Pillars</h4>
 1.	Abstraction
-Abstraction is a process of exposing essential feature of an entity
+
+   Abstraction is a process of exposing essential feature of an entity
 while hiding other irrelevant detail. Why would you want to use abstraction?
 abstraction reduces code complexity and at the same time it makes your aesthetically 
 pleasant.
 
 2.	Encapsulation
 
-We have to take in consideration that Encapsulation is somehow related to Data Hiding.
+   We have to take in consideration that Encapsulation is somehow related to Data Hiding.
 Encapsulation is when you hide your modules internal data and all other implementation 
 details/mechanism from other modules. It is also a way of restricting access to certain 
 properties or component. 
 Remember, Encapsulation is not data hiding, but Encapsulation leads to data hiding.
 
 3.	Inheritance
-The ability of creating a new class from an existing class.
+
+   The ability of creating a new class from an existing class.
 Like the word Inheritance literally means it is a practice of passing on property, titles, 
 debts, rights and obligations upon the death of an individual. In OOP this is somewhat 
 true(Except the death of an individual), where The base class(the existing class sometimes 
@@ -24,7 +26,8 @@ methods.
 Inheritance is also a way to use code of an existing objects.
 
 4.	Polymorphism
-Just like in biology, Polymorphism refers to the ability to take into different forms or stages. 
+
+   Just like in biology, Polymorphism refers to the ability to take into different forms or stages. 
 A subclass can define its own unique behaviour and still share the same functionalities or behavior 
 of its parent/base class. Yes, you got it right, subclass can have their own behavior and share 
 some behaviour from its parent class BUT!! not vice versa.
