@@ -1,5 +1,7 @@
 __PLEASE MAKE SURE TO DOCUMENT ALL TOPICS AND UPDATE README__
 
+e-mail max.mu@fdmgroup.com for access
+
 ##Table of Contents
 =======
 ###Structure
