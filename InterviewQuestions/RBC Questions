@@ -1,2 +1,12 @@
 Questions for RBC interview 
 
+App Support
+
+  Unix-
+    1)How to view a file that is being modified in realtime?
+    2)What is the difference between Grep and Find?
+    3)How can you tell how long a system is being running for?
+    4)In the case of an error what should you do to find the source of the error?
+    
+  Testing
+    1)How would you design a test case for a function?
