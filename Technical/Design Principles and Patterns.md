@@ -1,4 +1,6 @@
-<h4>4 Pillars</h4>
+<h2>Object Oriented Programming (OOP) Principles </h2>
+
+<h3>4 Pillars</h3>
 1.	Abstraction
 
    Abstraction is a process of exposing essential feature of an entity
@@ -33,7 +35,7 @@ of its parent/base class. Yes, you got it right, subclass can have their own beh
 some behaviour from its parent class BUT!! not vice versa.
 A parent class cannot have the behaviour of its subclass.
 
-<h4>S.O.L.I.D.:</h4>
+<h3>S.O.L.I.D.:</h3>
 * **Single-responsibility principle**
 a class should have only a single responsibility (i.e. only one potential change in the software's 
     specification should be able to affect the specification of the class)
@@ -48,13 +50,13 @@ a class should have only a single responsibility (i.e. only one potential change
 one should “Depend upon Abstractions. Do not depend upon concretions.”
 
 
-<h4>Definition of Class and Object</h4>
+<h3>Definition of Class and Object</h3>
 Objects have states and behaviors. Example: A dog has states - colour, name, breed as well as behaviours -wagging, 
 barking, eating. An object is an instance of a class. 
 
 A class can be defined as a template/blue print that describes the behaviours/states that object of its type support.
 
-<h4>Method Overriding and Overloading:</h4>
+<h3>Method Overriding and Overloading:</h3>
 Method overloading deals with the notion of having two or more methods in the same class with the same name but 
 different arguments. Done at compile time.
 Method overriding means having two methods with the same arguments, but different implementations. Done at runtime.
